@@ -1,0 +1,6 @@
+/*!
+
+  This is the core import file. Section your Sass stylesheets according to the below structure for a nice flow.
+
+*/body{background:white;margin:0;font:14px/20px sans-serif;color:#483d8b}body{line-height:1.7}ol{text-align:left}code{font-weight:bold;padding:2px 5px;border-radius:3px}a{color:white;font-weight:bold}.header{display:block;padding:150px 30px 0;width:420px;max-width:100%}.header h1{margin:0 0 30px}.main{padding:0 30px}.main-success{color:white}.footer{padding:0 30px 150px}
+/*# sourceMappingURL=app.min.css.map */

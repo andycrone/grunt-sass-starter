@@ -1,0 +1,26 @@
+{
+  "name": "grunt-sass-master",
+  "version": "1.1.0",
+  "description": "A Simple Grunt Sass Starter Template",
+  "author": "Andy Crone <andy@andycrone.com>",
+  "homepage": "https://andycrone.com/articles/code-snippets/simple-gruntfile-sass-starter-example/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andycrone/grunt-sass-starter"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10.16.1"
+  },
+  "keywords": [
+    "grunt, sass"
+  ],
+  "devDependencies": {
+    "grunt": "~1.0.3",
+    "grunt-contrib-clean": "~2.0.0",
+    "grunt-contrib-jshint": "~2.1.0",
+    "grunt-contrib-uglify": "~4.0.1",
+    "grunt-contrib-watch": "~1.1.0",
+    "grunt-contrib-sass": "~1.0.0"
+  }
+}

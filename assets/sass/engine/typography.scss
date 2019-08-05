@@ -1,0 +1,29 @@
+/*
+
+  Typography
+  +
+
+*/
+
+body{
+  line-height: $base-line-height;
+}
+
+ol{
+  text-align: left;
+
+  li{
+
+  }
+}
+
+code{
+  font-weight: bold;
+  padding: 2px 5px;
+  border-radius: 3px;
+}
+
+a{
+  color: white;
+  font-weight: bold;
+}
