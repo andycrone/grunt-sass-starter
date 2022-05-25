@@ -16,7 +16,7 @@
     "grunt, sass"
   ],
   "devDependencies": {
-    "grunt": "~1.0.3",
+    "grunt": "~1.5.3",
     "grunt-contrib-clean": "~2.0.0",
     "grunt-contrib-jshint": "~2.1.0",
     "grunt-contrib-uglify": "~4.0.1",
